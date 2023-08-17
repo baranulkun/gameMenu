@@ -2,7 +2,7 @@
 
 Creating and logging into player accounts on Java using SQL.
 
-https://github.com/baranulkun/gameMenu/assets/74157174/1b9b2abc-bb71-42bb-8620-80efbb25047e
+![gameMenu](https://github.com/baranulkun/gameMenu/assets/74157174/f4350e89-8185-4baa-be47-5b0e95627d72)
 
 How this works: "https://youtu.be/NdGZHDlj1zg"
 
